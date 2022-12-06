@@ -6,7 +6,7 @@
 <p align="center">
   <samp>
     Hi, I'm Mohammad Yasir Khan! 👋 <br>
-    🔥 Software Developer grinding hard to make something cool  <br>
+    🔥 Software Developer grinding hard t o make something cool  <br>
     :sparkles: Favorite Tech: JavaScript, React JS, Typescript, Node JS, GCP, AWS, Github CI/CD... <br>
     :notebook: I’m currently learning DS and Algo... 😭  <br>
     :email:	myasirkhan575@gmail.com <br>
